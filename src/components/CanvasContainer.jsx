@@ -55,7 +55,6 @@ const CameraLogger = ({ orbitControls }) => {
         trigger: '.s2',
         scroller: 'body',
         scrub: 2,
-        markers: true,
         start: 'top bottom',
         end: 'top top',
         immediateRender: false
@@ -69,7 +68,6 @@ const CameraLogger = ({ orbitControls }) => {
           trigger: '.s2',
           scroller: 'body',
           scrub: 2,
-          markers: true,
           start: 'top bottom',
           end: 'top top',
           immediateRender: false
@@ -83,7 +81,6 @@ const CameraLogger = ({ orbitControls }) => {
           trigger: '.s2',
           scroller: 'body',
           scrub: 2,
-          markers: true,
           start: 'top bottom',
           end: 'top top',
           immediateRender: false
@@ -97,7 +94,6 @@ const CameraLogger = ({ orbitControls }) => {
           trigger: '.s3',
           scroller: 'body',
           scrub: 2,
-          markers: true,
           start: 'top bottom',
           end: 'top top',
           immediateRender: false
@@ -111,7 +107,6 @@ const CameraLogger = ({ orbitControls }) => {
           trigger: '.s3',
           scroller: 'body',
           scrub: 2,
-          markers: true,
           start: 'top bottom',
           end: 'top top',
           immediateRender: false  
@@ -125,7 +120,6 @@ const CameraLogger = ({ orbitControls }) => {
           trigger: '.s3',
           scroller: 'body',
           scrub: 2,
-          markers: true,
           start: 'top bottom',
           end: 'top top',
           immediateRender: false
